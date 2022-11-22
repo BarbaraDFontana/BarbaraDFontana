@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BarbaraDFontana
 - 👀 I’m interested in Neuroscience and Behavior
 -- 💞️ I’m looking to collaborate on R and Phyton
-- 📫 How to reach me barbaradotto@live.com
+- 📫 How to reach me fontana.bd@gmail.com
 
 <!---
 BarbaraDFontana/BarbaraDFontana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
