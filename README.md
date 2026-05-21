@@ -75,5 +75,5 @@ Open to opportunities in Denmark and international collaborations.
 
 ## Contact
 
-- LinkedIn: [linkedin link]
+- Email: fontana.bd@gmail.com
 - GitHub: https://github.com/BarbaraDFontana
